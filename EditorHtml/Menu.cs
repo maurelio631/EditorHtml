@@ -16,7 +16,7 @@ namespace EditorHtml
 
         public static void DrawScreen()
         {
-            DrawLines();
+            DrawMargins();
 
             for (int lines = 0; lines <= 10; lines++)
             {
@@ -27,11 +27,14 @@ namespace EditorHtml
                 Console.Write("|");
                 Console.Write("\n");
             }
-            
-            DrawLines();
+
+            DrawMargins();
+            WriteOptions();
+
+            var option = short.Parse(Console.ReadLine());
         }
 
-        public static void DrawLines()
+        public static void DrawMargins()
         {
             Console.Write("+");
             for (int i = 0; i <= 30; i++)
@@ -39,6 +42,25 @@ namespace EditorHtml
 
             Console.Write("+");
             Console.Write("\n");
+        }
+
+        public static void WriteOptions()
+        {
+            Console.SetCursorPosition(3, 2);
+            Console.WriteLine("Editor de HTML!");
+            Console.WriteLine(" ==============================");
+            Console.SetCursorPosition(3, 3);
+            Console.WriteLine("==============");
+            Console.SetCursorPosition(3, 4);
+            Console.WriteLine("Selecione uma opção");
+            Console.SetCursorPosition(3, 6);
+            Console.WriteLine("1 - Novo arquivo");
+            Console.SetCursorPosition(3, 7);
+            Console.WriteLine("2 - Abrir arquivo");
+            Console.SetCursorPosition(3, 9);
+            Console.WriteLine("0 - Sair");
+            Console.SetCursorPosition(3, 10);
+            Console.Write("Opção: ");
         }
     }
 }
