@@ -1,0 +1,15 @@
+/workspaces/EditorHtml/EditorHtml/bin/Debug/net7.0/EditorHtml
+/workspaces/EditorHtml/EditorHtml/bin/Debug/net7.0/EditorHtml.deps.json
+/workspaces/EditorHtml/EditorHtml/bin/Debug/net7.0/EditorHtml.runtimeconfig.json
+/workspaces/EditorHtml/EditorHtml/bin/Debug/net7.0/EditorHtml.dll
+/workspaces/EditorHtml/EditorHtml/bin/Debug/net7.0/EditorHtml.pdb
+/workspaces/EditorHtml/EditorHtml/obj/Debug/net7.0/EditorHtml.csproj.AssemblyReference.cache
+/workspaces/EditorHtml/EditorHtml/obj/Debug/net7.0/EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/EditorHtml/EditorHtml/obj/Debug/net7.0/EditorHtml.AssemblyInfoInputs.cache
+/workspaces/EditorHtml/EditorHtml/obj/Debug/net7.0/EditorHtml.AssemblyInfo.cs
+/workspaces/EditorHtml/EditorHtml/obj/Debug/net7.0/EditorHtml.csproj.CoreCompileInputs.cache
+/workspaces/EditorHtml/EditorHtml/obj/Debug/net7.0/EditorHtml.dll
+/workspaces/EditorHtml/EditorHtml/obj/Debug/net7.0/refint/EditorHtml.dll
+/workspaces/EditorHtml/EditorHtml/obj/Debug/net7.0/EditorHtml.pdb
+/workspaces/EditorHtml/EditorHtml/obj/Debug/net7.0/EditorHtml.genruntimeconfig.cache
+/workspaces/EditorHtml/EditorHtml/obj/Debug/net7.0/ref/EditorHtml.dll
